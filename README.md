@@ -59,8 +59,7 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (version 2.4.1), Tens
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![image](https://github.com/user-attachments/assets/4d8b12e7-a99c-4ef9-8a9a-bcf6d2055f3d)
-
+![arc](https://github.com/user-attachments/assets/57134caa-be23-4740-a8a3-953134df261f)
 
 
 ## Output
@@ -68,14 +67,23 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (version 2.4.1), Tens
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-
+![image](https://github.com/user-attachments/assets/e462720a-be4a-4f21-8220-ec271b407c94)
 
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![image](https://github.com/user-attachments/assets/d1f6c563-8704-48ca-95b5-4d4d982874b1)
+![image](https://github.com/user-attachments/assets/5615684b-af6d-4b43-8a4c-04e398d470fa)
+![image](https://github.com/user-attachments/assets/8aeff525-45d6-4b3c-a768-1902b712d616)
+![image](https://github.com/user-attachments/assets/611f3fae-1257-45a0-a969-ee023669ec8d)
+![image](https://github.com/user-attachments/assets/0d83fa91-ec2b-415b-a29a-ba6775857364)
+![image](https://github.com/user-attachments/assets/243cd0e5-ea86-4927-93d5-3898996bb25d)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
+
+
+
+
+
 
 
 ## Results and Impact
@@ -93,3 +101,8 @@ Furthermore, the system’s continuous improvement mechanism ensures that it evo
 [4] Thakkar, S. et al. (2022). "Machine Learning in Healthcare: Applications and Future Directions." Health Informatics Journal, 28(1), 145-159.
 [5] Kumar, A. (2020). "Development of a Machine Learning-Based Medication Recommendation System." Master’s Thesis, University of Technology.
 ```
+
+
+
+
+
